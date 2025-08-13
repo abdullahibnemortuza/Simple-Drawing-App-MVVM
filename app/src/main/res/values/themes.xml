@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SimpleDrawing" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary color (buttons) -->
+        <item name="colorPrimary">#FF5722</item>         <!-- Bright orange buttons -->
+        <item name="colorOnPrimary">#FFFFFF</item>      <!-- Text on buttons -->
+        <item name="colorPrimaryVariant">#E64A19</item>
+
+        <!-- Secondary color -->
+        <item name="colorSecondary">#03DAC5</item>      <!-- Teal accent -->
+        <item name="colorOnSecondary">#000000</item>
+
+        <!-- App background -->
+        <item name="android:windowBackground">#121212</item> <!-- Dark background -->
+
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">#121212</item>
+        <item name="android:navigationBarColor">#121212</item>
+    </style>
+</resources>

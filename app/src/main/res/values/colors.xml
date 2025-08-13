@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#FF5722</color>         <!-- Bright orange buttons -->
+    <color name="colorOnPrimary">#FFFFFF</color>      <!-- Text on buttons -->
+    <color name="colorPrimaryVariant">#E64A19</color>
+
+    <!-- Secondary color -->
+    <color name="colorSecondary">#03DAC5</color>      <!-- Teal accent -->
+    <color name="colorOnSecondary">#000000</color>
+
+
+</resources>
